@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.w700,
-                  color: Colors.white),
+                  color: Colors.green),
             ),
             Text(
               count.toString(),
